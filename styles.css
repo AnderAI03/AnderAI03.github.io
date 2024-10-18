@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+html {
+    scroll-padding-top: 70px; /* Ajusta este valor según la altura de tu header */
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #333;
